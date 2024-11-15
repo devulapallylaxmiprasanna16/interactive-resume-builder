@@ -1,0 +1,18 @@
+.container {
+    margin: 20px;
+  }
+  
+  .resume-preview {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px 0;
+  }
+  
+  .resume-preview.template1 {
+    background-color: #f9f9f9;
+  }
+  
+  .resume-preview.template2 {
+    background-color: #e9ecef;
+  }
+  
